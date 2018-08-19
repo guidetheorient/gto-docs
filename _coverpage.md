@@ -6,5 +6,5 @@
 <!-- * Multiple themes -->
 <!-- * Not build static html files -->
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/guidetheorient/gto-docs)
 [Get Started](#quick-start)
